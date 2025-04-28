@@ -1,16 +1,21 @@
-## Description
 
-Describe the purpose of this pull request.
+To use a specific template, please go to the `Preview` tab and click on the corresponding PR type:
 
-## Changes
+* [dbt Changes](?expand=1&template=dbt_template.md)
 
-List the changes you have made.
+-------
 
-## Additional Information
 
-Include any additional information, such as how to test your changes.
+### TL;DR
 
-## Checklist
 
-- [ ] Tests passed
-- [ ] Documentation updated
+
+### What changed?
+
+
+
+### How to test?
+
+
+
+### Why make this change?
